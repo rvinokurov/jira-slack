@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Jira-Slack",
+    "script": "./bin/www",
+    "exec_mode": "fork"
+  }
+]
